@@ -9,7 +9,7 @@ susunan=[[sg.Text("UNISKA MAB", font=("Arial", 20,"bold","italic"), text_color=(
 window = sg.Window(title="New Icon",
                 layout=susunan,
                 element_justification= "center",
-                icon="favicon.ico",
+                icon="datu.ico",
                 resizable=True,
                 size=(500,200))
 window()
